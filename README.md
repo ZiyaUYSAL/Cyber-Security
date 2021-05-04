@@ -1,11 +1,11 @@
 # Cyber Security
 Twitch Yayıncıları
-- Lunizz
-- Nahamsec
+- Lunizz https://twitch.tv/lunizz
+- Nahamsec 
 - The Cyber Mentor
 - BugcrowdOfficial
 
 # Cyber Security
 
-https://twitch.tv/lunizz
+
 <strong> ss 
