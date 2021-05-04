@@ -1,16 +1,18 @@
 # Cyber Security
 
-<B><font size=5> Twitch Yayıncıları
+Twitch Yayıncıları
 - https://twitch.tv/lunizz
 - https://www.twitch.tv/nahamsec/
 - https://www.twitch.tv/bugcrowdofficial
 - https://www.twitch.tv/thecybermentor
 
+Udemy Eğitimleri
+
 # Cyber Security
 
 
 
-https://www.udemy.com/course/practica...​
+-https://www.udemy.com/course/practica...
 https://www.udemy.com/course/learn-et...​
 https://www.udemy.com/course/etik-hac...​
 https://www.udemy.com/course/python-s...​
