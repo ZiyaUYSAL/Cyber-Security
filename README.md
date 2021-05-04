@@ -8,4 +8,4 @@ Twitch Yayıncıları
 # Cyber Security
 
 https://twitch.tv/lunizz
-<strong> ss </strong>
+<strong> ss 
