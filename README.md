@@ -1,5 +1,13 @@
 # Cyber Security
 
+Server Version Detection
+
+- curl -IL <target DNS>
+- nmap -v -A -T4 -p 443
+- wappalyzer
+
+
+
 Twitch Yayıncıları
 - https://twitch.tv/lunizz
 - https://www.twitch.tv/nahamsec/
